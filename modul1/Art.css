@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 3rem;
+  background-color: dimgray;
+}
+.svf {
+  translate: 0px 2px;
+}
+
+.svp {
+  translate: 0px 20px;
+}
+#pengalaman {
+  padding-top: 6rem;
+}
+#proyek {
+  padding-top: 6rem;
+  background-color: dimgray;
+}
+.svk {
+  translate: 0px 2px;
+}
+
+#kontak {
+  padding-top: 6rem;
+}
