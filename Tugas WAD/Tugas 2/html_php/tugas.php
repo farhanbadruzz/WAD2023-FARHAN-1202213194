@@ -152,7 +152,7 @@ if(isset($_POST['simpan'])){ //perhatikan
                     <!-- harga -->
                     <div class="mb-3">
                         <label for="harga" class="form-label">Harga</label>
-                        <input type="text" class="form-control" id="harga" name="harga" value ="<?php echo $deskripsi ?>">
+                        <input type="text" class="form-control" id="harga" name="harga" value ="<?php echo $harga ?>">
                     </div>
 
                     <div class="col-12">
